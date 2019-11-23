@@ -1,0 +1,70 @@
+15 15
+j . * * * * * * * * * * * * *
+. . p p p p p p p p p p p p p
+. . p p p p p p p t p p p p p
+. . p p p p p p p p p p p p p
+. . p p p p p p p i p p p p p
+i . p p i t p p p p p p p p p
+. . p p p p p p p p p p p p p
+. . p p p p p p p p p p p p p
+. . . . . . . i . . . . . . .
+i . P P P P P P P P P P P P P
+. . P P P t P P P P P P P P P
+. . P i P P P P P P P P P P P
+. . P P P P t P P P P t P P P
+. . P P P P P P P P P P P P P
+. . P P P P P P P P P i P P P
+
+Pokemons Tipo 1 - 4
+Charmander|Fogo|50|25|25|25|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Squirtle|Agua|50|25|25|25|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Bulbasaur|Planta|50|25|25|25|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Pikachu|Raio|50|25|25|25|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+
+Pokemons Tipo 2 - 4
+Charizard|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Blastoise|Agua|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Venosaur|Planta|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Raichu|Raio|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+
+Items - 6
+Chupaotario|Faznada
+Chupaotario|Faznada
+Chupaotario|Faznada
+Chupaotario|Faznada
+Chupaotario|Faznada
+Chupaotario|Faznada
+
+Treinador - 4
+Mame|40
+Insignia1|Nada
+Charmander|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander2|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander3|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander3|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander4|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander4|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Mame|40
+Insignia1|Nada
+Charmander|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander2|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander3|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander3|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander4|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander4|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Mame|40
+Insignia1|Nada
+Charmander|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander2|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander3|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander3|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander4|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander4|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Mame|40
+Insignia1|Nada
+Charmander|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander2|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander3|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander3|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander4|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
+Charmander4|Fogo|100|50|50|50|Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25-Tackle;Nenhum;Normal;100;20;25
